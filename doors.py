@@ -2,4 +2,4 @@ import streamlit as st
 
 import streamlit.components.v1 as components
 
-components.iframe("http://www.oisteing.no")
+components.iframe("http://www.oisteing.com")
